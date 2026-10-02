@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.guitartuner.app.PitchDetectorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-01T21:09:54" hostname="k-System-Product-Name" time="0.163">
+  <properties/>
+  <testcase name="testSilenceRejection" classname="com.guitartuner.app.PitchDetectorTest" time="0.003"/>
+  <testcase name="testSyntheticSineWaveDetection" classname="com.guitartuner.app.PitchDetectorTest" time="0.16"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
